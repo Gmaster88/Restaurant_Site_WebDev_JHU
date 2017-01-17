@@ -1,4 +1,4 @@
-## A resturant site to implement HTML5 CSS and Javascript.
+## A Dummy site to implement HTML5 CSS and Javascript and responsive web design.
 
 
-### Hosted on : https://gmaster89.github.io/Restaurant_Site_WebDev_JHU/
+### Hosted on : https://gmaster89.github.io/Dummy_Site_Responsive/
